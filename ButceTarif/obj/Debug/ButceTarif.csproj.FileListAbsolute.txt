@@ -1,0 +1,107 @@
+C:\Users\Melih Dizdar\AppData\Local\Temporary Projects\ButceTarif\bin\Debug\ButceTarif.exe.config
+C:\Users\Melih Dizdar\AppData\Local\Temporary Projects\ButceTarif\bin\Debug\ButceTarif.exe
+C:\Users\Melih Dizdar\AppData\Local\Temporary Projects\ButceTarif\bin\Debug\ButceTarif.pdb
+C:\Users\Melih Dizdar\AppData\Local\Temporary Projects\ButceTarif\obj\Debug\ButceTarif.csprojResolveAssemblyReference.cache
+C:\Users\Melih Dizdar\AppData\Local\Temporary Projects\ButceTarif\obj\Debug\ButceTarif.Form_Main.resources
+C:\Users\Melih Dizdar\AppData\Local\Temporary Projects\ButceTarif\obj\Debug\ButceTarif.Properties.Resources.resources
+C:\Users\Melih Dizdar\AppData\Local\Temporary Projects\ButceTarif\obj\Debug\ButceTarif.csproj.GenerateResource.Cache
+C:\Users\Melih Dizdar\AppData\Local\Temporary Projects\ButceTarif\obj\Debug\ButceTarif.exe
+C:\Users\Melih Dizdar\AppData\Local\Temporary Projects\ButceTarif\obj\Debug\ButceTarif.pdb
+E:\Görsel Programlama 2\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe.config
+E:\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.exe
+E:\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.pdb
+E:\Görsel Programlama 2\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe
+E:\Görsel Programlama 2\ButceTarif\ButceTarif\bin\Debug\ButceTarif.pdb
+E:\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csprojResolveAssemblyReference.cache
+E:\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Main.resources
+E:\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Properties.Resources.resources
+E:\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csproj.GenerateResource.Cache
+C:\Users\Melih Dizdar\Desktop\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe.config
+C:\Users\Melih Dizdar\Desktop\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.exe
+C:\Users\Melih Dizdar\Desktop\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.pdb
+C:\Users\Melih Dizdar\Desktop\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csprojResolveAssemblyReference.cache
+C:\Users\Melih Dizdar\Desktop\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Main.resources
+C:\Users\Melih Dizdar\Desktop\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Tarif.resources
+C:\Users\Melih Dizdar\Desktop\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Properties.Resources.resources
+C:\Users\Melih Dizdar\Desktop\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csproj.GenerateResource.Cache
+C:\Users\Melih Dizdar\Desktop\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe
+C:\Users\Melih Dizdar\Desktop\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\bin\Debug\ButceTarif.pdb
+C:\Users\Melih Dizdar\Desktop\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\bin\Debug\ButceTarif.mdf
+C:\Users\Melih Dizdar\Desktop\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\bin\Debug\ButceTarif_log.ldf
+C:\Users\Halit\Desktop\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe.config
+C:\Users\Halit\Desktop\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe
+C:\Users\Halit\Desktop\ButceTarif\ButceTarif\bin\Debug\ButceTarif.pdb
+C:\Users\Halit\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csprojAssemblyReference.cache
+C:\Users\Halit\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Main.resources
+C:\Users\Halit\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Tarif.resources
+C:\Users\Halit\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Properties.Resources.resources
+C:\Users\Halit\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csproj.GenerateResource.cache
+C:\Users\Halit\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.exe
+C:\Users\Halit\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.pdb
+C:\Users\Halit\Desktop\ButceTarif\ButceTarif\bin\Debug\ButceTarif.mdf
+C:\Users\Halit\Desktop\ButceTarif\ButceTarif\bin\Debug\ButceTarif_log.ldf
+C:\Users\Melih Dizdar\Desktop\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe.config
+C:\Users\Melih Dizdar\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.exe
+C:\Users\Melih Dizdar\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.pdb
+C:\Users\Melih Dizdar\Desktop\ButceTarif\ButceTarif\bin\Debug\ButceTarif.mdf
+C:\Users\Melih Dizdar\Desktop\ButceTarif\ButceTarif\bin\Debug\ButceTarif_log.ldf
+C:\Users\Melih Dizdar\Desktop\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe
+C:\Users\Melih Dizdar\Desktop\ButceTarif\ButceTarif\bin\Debug\ButceTarif.pdb
+C:\Users\Melih Dizdar\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csprojResolveAssemblyReference.cache
+C:\Users\Melih Dizdar\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Main.resources
+C:\Users\Melih Dizdar\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Tarif.resources
+C:\Users\Melih Dizdar\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Properties.Resources.resources
+C:\Users\Melih Dizdar\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csproj.GenerateResource.Cache
+C:\Users\Melih Dizdar\Desktop\Private\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe.config
+C:\Users\Melih Dizdar\Desktop\Private\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.exe
+C:\Users\Melih Dizdar\Desktop\Private\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.pdb
+C:\Users\Melih Dizdar\Desktop\Private\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csprojResolveAssemblyReference.cache
+C:\Users\Melih Dizdar\Desktop\Private\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Main.resources
+C:\Users\Melih Dizdar\Desktop\Private\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Menu.resources
+C:\Users\Melih Dizdar\Desktop\Private\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Tarif.resources
+C:\Users\Melih Dizdar\Desktop\Private\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csproj.GenerateResource.Cache
+C:\Users\Melih Dizdar\Desktop\Private\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\bin\Debug\ButceTarif.mdf
+C:\Users\Melih Dizdar\Desktop\Private\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\bin\Debug\ButceTarif_log.ldf
+C:\Users\Melih Dizdar\Desktop\Private\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe
+C:\Users\Melih Dizdar\Desktop\Private\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\bin\Debug\ButceTarif.pdb
+C:\Users\Melih Dizdar\Desktop\Private\SUBÜ\2.Sene 1.Yarıyıl\Görsel Programlama 2\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Properties.Resources.resources
+C:\Users\Halit\Desktop\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Menu.resources
+C:\Users\Melih Dizdar\Downloads\ButceTarif (2)\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe.config
+C:\Users\Melih Dizdar\Downloads\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.exe
+C:\Users\Melih Dizdar\Downloads\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.pdb
+C:\Users\Melih Dizdar\Downloads\ButceTarif (2)\ButceTarif\ButceTarif\bin\Debug\ButceTarif.mdf
+C:\Users\Melih Dizdar\Downloads\ButceTarif (2)\ButceTarif\ButceTarif\bin\Debug\ButceTarif_log.ldf
+C:\Users\Melih Dizdar\Downloads\ButceTarif (2)\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe
+C:\Users\Melih Dizdar\Downloads\ButceTarif (2)\ButceTarif\ButceTarif\bin\Debug\ButceTarif.pdb
+C:\Users\Melih Dizdar\Downloads\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csprojResolveAssemblyReference.cache
+C:\Users\Melih Dizdar\Downloads\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Main.resources
+C:\Users\Melih Dizdar\Downloads\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Menu.resources
+C:\Users\Melih Dizdar\Downloads\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Tarif.resources
+C:\Users\Melih Dizdar\Downloads\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Properties.Resources.resources
+C:\Users\Melih Dizdar\Downloads\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csproj.GenerateResource.Cache
+C:\Users\Melih Dizdar\Desktop\ButceTarif (2)\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe.config
+C:\Users\Melih Dizdar\Desktop\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.exe
+C:\Users\Melih Dizdar\Desktop\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.pdb
+C:\Users\Melih Dizdar\Desktop\ButceTarif (2)\ButceTarif\ButceTarif\bin\Debug\ButceTarif.mdf
+C:\Users\Melih Dizdar\Desktop\ButceTarif (2)\ButceTarif\ButceTarif\bin\Debug\ButceTarif_log.ldf
+C:\Users\Melih Dizdar\Desktop\ButceTarif (2)\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe
+C:\Users\Melih Dizdar\Desktop\ButceTarif (2)\ButceTarif\ButceTarif\bin\Debug\ButceTarif.pdb
+C:\Users\Melih Dizdar\Desktop\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csprojResolveAssemblyReference.cache
+C:\Users\Melih Dizdar\Desktop\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Main.resources
+C:\Users\Melih Dizdar\Desktop\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Menu.resources
+C:\Users\Melih Dizdar\Desktop\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Tarif.resources
+C:\Users\Melih Dizdar\Desktop\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Properties.Resources.resources
+C:\Users\Melih Dizdar\Desktop\ButceTarif (2)\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csproj.GenerateResource.Cache
+E:\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe.config
+E:\ButceTarif\ButceTarif\obj\Debug\ButceTarif.exe
+E:\ButceTarif\ButceTarif\obj\Debug\ButceTarif.pdb
+E:\ButceTarif\ButceTarif\bin\Debug\ButceTarif.mdf
+E:\ButceTarif\ButceTarif\bin\Debug\ButceTarif_log.ldf
+E:\ButceTarif\ButceTarif\bin\Debug\ButceTarif.exe
+E:\ButceTarif\ButceTarif\bin\Debug\ButceTarif.pdb
+E:\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csprojResolveAssemblyReference.cache
+E:\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Main.resources
+E:\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Menu.resources
+E:\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Form_Tarif.resources
+E:\ButceTarif\ButceTarif\obj\Debug\ButceTarif.Properties.Resources.resources
+E:\ButceTarif\ButceTarif\obj\Debug\ButceTarif.csproj.GenerateResource.Cache
